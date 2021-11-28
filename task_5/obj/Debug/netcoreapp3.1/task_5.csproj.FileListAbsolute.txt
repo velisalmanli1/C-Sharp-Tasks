@@ -1,0 +1,5 @@
+C:\Users\VAFA\Desktop\Code Academy\C#_2\task_5\obj\Debug\netcoreapp3.1\task_5.csproj.AssemblyReference.cache
+C:\Users\VAFA\Desktop\Code Academy\C#_2\task_5\obj\Debug\netcoreapp3.1\task_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAFA\Desktop\Code Academy\C#_2\task_5\obj\Debug\netcoreapp3.1\task_5.AssemblyInfoInputs.cache
+C:\Users\VAFA\Desktop\Code Academy\C#_2\task_5\obj\Debug\netcoreapp3.1\task_5.AssemblyInfo.cs
+C:\Users\VAFA\Desktop\Code Academy\C#_2\task_5\obj\Debug\netcoreapp3.1\task_5.csproj.CoreCompileInputs.cache
